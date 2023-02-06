@@ -1,2 +1,1 @@
-# LaserDefender
-unity course section 6
+Little game prototype, made with Unity
